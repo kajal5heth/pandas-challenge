@@ -8,3 +8,4 @@ Higher Per Capita Spending in the schools is not indicative of higher average hi
 The higher performing schools have a fewer number of Total students.  The bottom performing schools have an almost 200% to 300% of the Total Student count than the better performing schools.  Smaller and Meduim sized schools have an 89.88% or higher overall passing percent tha Large schools, which have a 58.58% overall passing grade.
 
 Charter Schools perform much better than District schools, and the percent passing for Math is 66.54% for District schools compared to 93.62% for Charter schools.
+
